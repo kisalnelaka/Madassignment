@@ -1,5 +1,4 @@
-# LogInApp
-A simple registration and login app with SQLite database with attractive UI.
-APK is in app/apk folder.
-Suggestions are welcome. Mail me at thealteria-1@yahoo.com :)
+MTIT assignment
+Joke app.
+I tried adding push notifications with google firebase but had some issues. So its kinda halfway done.
 
